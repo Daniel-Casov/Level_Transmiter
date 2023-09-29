@@ -10,7 +10,7 @@ int battSwitch =  33;
 int battReading = 34;
  
 // MAC Address of responder
-uint8_t broadcastAddress[] = {0xE0, 0x5A, 0x1B, 0xC8, 0x30, 0xCC};
+uint8_t broadcastAddress[] = {0xE0, 0x5A, 0x1B, 0xD3, 0x0C, 0x84};
  
 // Define a data structure
 typedef struct struct_message {
